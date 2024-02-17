@@ -44,3 +44,8 @@
     <!-- <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  -->
 </p>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepak8811&show_icons=true&locale=en&layout=compact" alt="Deepak8811" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Deepak8811&show_icons=true&locale=en" alt="Deepak8811" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak8811&" alt="Deepak8811" /></p>
+
