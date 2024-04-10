@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working as a  **Software Development Engineer at @Ruffde**
 
+- **Backend Developer** specializing in **Node.js** with over **1.5+** years of experience. Proficient in **Node.js, Express.js, JavaScript (ES6+), MongoDB, HTML, and CSS**. I also have basic knowledge of **AWS**. Passionate about crafting efficient backend solutions and enhancing user experiences. Eager to learn and adapt to new technologies. **MERN Stack Developer || Programmer ||CSE**
+
   
 - 👨‍💻 All of my projects are available at [https://github.com/Deepak8811?tab=repositories](https://github.com/Deepak8811?tab=repositories)
 
